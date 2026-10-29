@@ -42,6 +42,7 @@ extern "C" {
 #else
 #include <mqtt_pal.h>
 #endif /* MQTT_PAL_FILE */
+#include <stdbool.h>
 
 /**
  * @file
